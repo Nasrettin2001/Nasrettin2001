@@ -4,11 +4,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **a personal portfolio website and a personal trainer gym application**
+- 🔭 I’m currently building diverse SaaS, B2B, and health solutions including **Esnaf-Defterim** (supply chain & payment platform), **İlacim** (medicine tracking), **PatiKurtar**, and **MyPersonalTrainer**. I'm also continuously refining my **personal portfolio** website.
 
-- 🌱 I’m currently exploring **vibe coding, Claude Code, Cursor, and agent-based frameworks**
+- 🌱 I’m currently deeply exploring **AI-Driven Development (Vibe Coding)** and integrating advanced AI workflows into software architecture. This involves leveraging tools like **Claude Code, Cursor, and NotebookLM** to accelerate development, alongside researching **AI Motion Capture** integrations. I am also actively building **custom AI agents** to optimize development pipelines and analyzing scalable **B2B, SaaS, and marketplace startup strategies**.
 
-- 🎨 Design philosophy: **Antigravity Minimalism & Clean Component Hierarchies**
+- 🎨 Design philosophy: **Antigravity Minimalism**. I specialize in creating premium, weightless UI/UX experiences. By utilizing clean component hierarchies and modern libraries like **Shadcn/ui**, I design interfaces characterized by floating elements, soft depth, and precise spatial layouts. The ultimate goal is to deliver an ultra-clean, intuitive, and highly functional aesthetic that eliminates visual clutter and maximizes user focus.
 
 - 📫 How to reach me **[nasrettinaltundag29@gmail.com](mailto:nasrettinaltundag29@gmail.com)**
 
@@ -25,7 +25,7 @@
 ### 💻 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,html,css,git,github,vscode,docker,figma,autocad&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nextjs,tailwind,firebase,html,css,git,github,vscode,docker,figma&perline=10" />
   </a>
 </p>
 
