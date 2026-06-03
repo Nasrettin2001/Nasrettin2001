@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Nasrettin Altundağ</h1>
 
 <h3 align="center">A passionate Software Developer focusing on AI-driven development and minimalist UI/UX</h3>
@@ -11,7 +10,7 @@
 
 - 🎨 Design philosophy: **Antigravity Minimalism & Clean Component Hierarchies**
 
-- 📫 How to reach me **[email-adresin@gmail.com](mailto:email-adresin@gmail.com)**
+- 📫 How to reach me **[nasrettinaltundag29@gmail.com](mailto:nasrettinaltundag29@gmail.com)**
 
 <br>
 
