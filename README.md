@@ -10,14 +10,14 @@
 
 - 🎨 Design philosophy: **Antigravity Minimalism & Clean Component Hierarchies**
 
-- 📫 How to reach me **[email-adresin@gmail.com](mailto:email-adresin@gmail.com)**
+- 📫 How to reach me **[nasrettinaltundag29@gmail.com](mailto:nasrettinaltundag29@gmail.com)**
 
 <br>
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="SENIN_LINKEDIN_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasrettinaltundag" height="30" width="40" /></a>
-  <a href="SENIN_MEDIUM_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nasrettinaltundag" height="30" width="40" /></a>
+  <a href="linkedin.com/in/nasrettin-altundağ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasrettinaltundag" height="30" width="40" /></a>
+  <a href="https://medium.com/@nasrettinaltundag29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nasrettinaltundag" height="30" width="40" /></a>
 </p>
 
 <br>
